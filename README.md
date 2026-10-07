@@ -1,3 +1,11 @@
+![Estático](https://img.shields.io/badge/DayannaW-Activa-violet)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/DayannaW/DayannaW/ci.yml)
+![Release](https://img.shields.io/github/v/release/DayannaW/DayannaW)
+![Issues](https://img.shields.io/github/issues/DayannaW/DayannaW)
+![Último commit](https://img.shields.io/github/last-commit/DayannaW/DayannaW)
+![Licencia](https://img.shields.io/github/license/DayannaW/DayannaW)
+
 # Hola 👋 Soy Dayanna
 
 Soy **Ingeniera en Teleinformática** y desarrolladora **Full Stack**, apasionada por crear soluciones que combinen tecnología, funcionalidad y una buena experiencia para el usuario.
