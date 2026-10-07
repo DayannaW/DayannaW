@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola 👋 Soy Dayanna
 
-<!--
-**DayannaW/DayannaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniera en Teleinformática** y desarrolladora **Full Stack**, apasionada por crear soluciones que combinen tecnología, funcionalidad y una buena experiencia para el usuario.
 
-Here are some ideas to get you started:
+💻 Tengo experiencia trabajando en el desarrollo de **aplicaciones web y móviles**, tanto en frontend como backend, además de bases de datos, APIs y soporte a usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Actualmente
+
+* 🔭 Trabajo en el desarrollo de aplicaciones web y móviles.
+* 🌱 Estoy aprendiendo más sobre **GitHub, .NET e Inteligencia Artificial**.
+* 🧠 Me interesa seguir creciendo en desarrollo de software y descubrir nuevas tecnologías.
+* 🤝 Disfruto trabajar en equipo, aprender de otros y compartir conocimientos.
+* ⚡ Siempre estoy buscando aprender algo nuevo y convertirlo en un proyecto.
+
+### 🛠️ Tecnologías
+
+**Lenguajes:** Python · Java · PHP · JavaScript · HTML · CSS
+
+**Frameworks y librerías:** Flask · Laravel · Flutter · React · jQuery · DataTables · Leaflet
+
+**Bases de datos:** SQL Server · MySQL · SQLite · Firebase
+
+**Herramientas:** GitHub · Git · Postman · Android Studio · Microsoft Azure · Trello
+
+### 📫 Conecta conmigo
+
+[LinkedIn](https://www.linkedin.com/in/dayanna-vv)
+
